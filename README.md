@@ -1,2 +1,2 @@
 # javaLC
-Practice Java
+Practice Java - Currently LC easy
